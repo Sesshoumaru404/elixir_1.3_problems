@@ -1,6 +1,6 @@
 defmodule Ten do
   # Implement the following Enum functions using no library functions or list
-  # comprehensions: all?, each, filter. split. and take. You may need to use
+  # comprehensions: all?, each, filter, split, and take. You may need to use
   # an if statement to implement filter. The syntax for this
   # if condition do
   #  expression(s)
